@@ -1,3 +1,4 @@
+
 class Vec2{
     constructor(x,y){
         this.x=x;
@@ -71,6 +72,11 @@ class Dvd{
 
 
 //MAIN----------------------------------
+
+
+
+
+
 
 let d= new Dvd;
 setInterval(()=>d.move(),60);

@@ -1,9 +1,10 @@
 .dvd{
     display: inline-block;
     position: relative;
-    background-color: blueviolet;
-    height: 200px;
-    width: 200px;
+}
+
+.dvd img{
+    height: 160px;
 }
 
 .cont{
